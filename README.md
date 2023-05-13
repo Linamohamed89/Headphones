@@ -1,4 +1,4 @@
-# Headphones
+# Headphones Simple Product Card
 
 ##site demo(https://linamohamed89.github.io/Headphones/)
 
