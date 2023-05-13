@@ -93,5 +93,6 @@ body {
 }
 .mouse {
   height: 300px;
-  width: 273px;;
+  width: 273px;
+  border-radius: 7%;
 }
